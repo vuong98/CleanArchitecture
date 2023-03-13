@@ -1,4 +1,4 @@
-package com.trinityweareair.app.presentation.di
+package com.trinityweareair.app.di
 
 import dagger.Module
 import dagger.Provides

@@ -1,4 +1,4 @@
-package com.trinityweareair.app.presentation.di
+package com.trinityweareair.app.di
 
 import com.trinityweareair.app.BuildConfig
 import com.trinityweareair.app.data.data_source.api.PhotoApi

@@ -1,4 +1,4 @@
-package com.trinityweareair.app.presentation.di
+package com.trinityweareair.app.di
 
 import com.trinityweareair.app.data.repository.LoginRepositoryImpl
 import com.trinityweareair.app.data.repository.PhotoRepositoryImpl
